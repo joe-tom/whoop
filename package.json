@@ -1,7 +1,7 @@
 {
   "name": "whoop",
-  "version": "0.0.1",
-  "description": "An easy to use way to get user input",
+  "version": "0.0.2",
+  "description": "The easiest way to get user input",
   "main": "index.js",
   "scripts": {
     "start": "index.js",
