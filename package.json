@@ -1,0 +1,29 @@
+{
+  "name": "whoop",
+  "version": "0.0.1",
+  "description": "An easy to use way to get user input",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joe-tom/whoop.git"
+  },
+  "keywords": [
+    "prompt",
+    "user",
+    "input",
+    "words"
+  ],
+  "author": "Joe Thomas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joe-tom/whoop/issues"
+  },
+  "homepage": "https://github.com/joe-tom/whoop#readme",
+  "dependencies": {
+    "deasync": "^0.1.9"
+  }
+}
