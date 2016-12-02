@@ -1,5 +1,7 @@
 # whoop
-The easiest way to get user input ini Node.js
+The easiest way to get user input in Node.js
+
+
 ![Use in terminal .gif](https://raw.githubusercontent.com/joe-tom/whoop/master/img.gif)
 ## Installation
 Wow, so easy, check out the [npm repo](https://www.npmjs.com/package/whoop).
